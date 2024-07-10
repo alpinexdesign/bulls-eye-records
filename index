@@ -426,3 +426,122 @@ LOS ANGELES and HOLLYWOOD. BULLS-EYE RECORDS recording equipement is state of th
 </footer> 
 <!-- <div style="margin-top: 50px"></div> -->
 </html>
+
+<!-- BULLS-EYE RECORDS - NEW RELEASES -->
+
+<!DOCTYPE html>
+<html lang= "en">
+<!-- HTML code processed in Sublime3 text editor -->
+<head>
+<!-- HTML CONNECTION TO CSS -->
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<meta charset = “UTF-8” />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>BULLSEYERECORDS</title>
+
+<!-- JAVASCRIPT CONNECTION TO HTML+CSS -->
+<script type="text/javascript" src="artists.js"></script>
+</head>
+<!-- TOP BUTTON CONTROL PANEL -->
+<body>
+<div class="btn-group">
+	<center>
+	<ul>
+	<li><a href="bullseyerecords1-index.html"><button type="button"><b>HOME</b></button></a></li>
+	<li><a href="artists.html"><button type="button"><b>ARTISTS</b></button></a></li>
+	<li><a href="brands.html"><button type="button"><b>BRANDS</b></button></a></li>
+	<li><a href="faq.html"><button type="button"><b>FAQ</b></button></a></li>
+	<li><a href="newreleases.html"><button type="button"><b>NEW RELEASES</b></button></a></li>
+<!--<li><a href="submissions.html"><button type="button"><b>SUBMISSIONS</b></button></a></li>-->
+	<li><a href="careers.html"><button type="button"><b>CAREERS</b></button></a></li>
+	<li><a href="contactus.html"><button type="button"><b>CONTACT</b></button></a></li>
+	</ul>
+	</center>
+</div>
+</body>
+<h1><img src="logo-white (3).jpg" width="400" height="145"></h1>
+  <div class="grid-container">
+    <div class="grid-item-1"><h3>LADY GAGA</h3>Lady Gaga has it going on and therefore she's the bomb.
+      Recently she has been busy performing at the Met Gala event and handing out lollipops
+      and ballons to all the child in the audience. Lady Gaga is crushing it on all levels. And decided
+      to partner up with The Children's Hospital Of Los Angeles.  She plans to donate a
+      large percentage of her sales from her latest 2020 album Chromatica.</div>
+    <div class="grid-item-2"><h3>JUSTIN TIMBERLAKE</h3>Justin Timebrlake is at it again, throwing
+    	down and colaborating with Pharrell once again, for an album out in late 2021 or
+    	early 2022.  This album should bust out all the stops.  Another master piece for
+    	sure, as Justin will be using the drum servcies of Quest Love for several tracks
+      on the new studio album. Notorious for bringing 'sexy' back, JT will dominate the charts.</div>
+    <div class="grid-item-3"><h3>ARIANA GRANDE</h3>Ariana's mulitple sold out world concert tours are a spectacle to behold.
+      Her amazing bass-centric contemporary and electro-trap songs are the most popular on the planet.  Her latest release
+      Positions is nothing short of a pop masterpiece.  Written at home in her 'Hollywood Hills' recording studio and
+      co-produced by London. The reigning queen of trap-vocal pop has returned.</div>
+    <div class="grid-item-4"><h3>DIANA ROSS</h3>Diana Ross, no stranger to the billboard charts has released
+      Supertonic: Mixes, a collection of nine of her greatest hits remixed by Eric Kupper and featuring her
+      four back-to-back No.1 hits on Billboard Dance Club Song chart: Ain't No Mountain High Enough 2017,
+      I'm Coming Out / Upside Down 2018, The Boss 2019, and Love Hangover 2020.  One of the best releases of 2020.</div>
+    <div class="grid-item-5"><h3>JAMIROQUAI</h3>Jay Kay is the primary songwriter of Jamiroquai. Despite his limited ability to play musical
+      instruments, he sang melodies and beats for band members to transcribe to their instrumentation. Jay Kay said that the
+      group is hugely into the analog sounds. "We run keyboards through old effects pedals, like they used to do, and we
+      really try to get the warmth and the clarity of those instruments".</div>
+    <div class="grid-item-6"><h3>BISHU</h3>On August 15, 2020; Bishu released his second remix on Monstercat, called Sunscreen
+      by Half an Orange. Next on September 15, 2020; Bishu released his seventh Monstercat single, City (feat. Sophie Strauss).
+      This song was featured on Monstercat Instinct Vol. 7. Lastly on December 4, 2020; Bishu released his eighth Monstercat single,
+      Empty Promises (feat. Brock).</div>
+    </div>
+	<hr color= #000000 />
+<center>
+	<h2><font face="Poppins" size="6">SERVICES FOR ARTISTS</font></h2>
+</center>
+<!-- LISTS/COLUMNS/ROWS/TABLES -->
+<div align="center"><table border="4" cellpadding="2" cellspacing="2" width=80%>
+<tr>
+<th bgcolor="#cccccc"><b>RECORD PRODUCER</b></th>
+<th bgcolor="#cccccc"><b>A&R REPRESENTATIVE</b></th>
+<th bgcolor="#cccccc"><b>AUDIO ENGINEER</b></th>
+<th bgcolor="#cccccc"><b>MUSIC PUBLICIST</b></th>
+</tr>
+<tr>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Artist Management</b></li></td>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Social Media</b></li></td>
+</tr>
+<tr>
+<td><li><b>Songwriting</b></li></td>
+<td><li><b>Recording Sessions</b></li></td>
+<td><li><b>Audio|Digital Recording</b></li></td>
+<td><li><b>Press Releases</b></li></td>
+</tr>
+<tr>
+<td><li><b>Arranging</b></li></td>
+<td><li><b>Album Repertoire</b></li></td>
+<td><li><b>Multi|Track Recording</b></li></td>
+<td><li><b>Music Publishing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Orchestration</b></li></td>
+<td><li><b>Album Releases</b></li></td>
+<td><li><b>Mastering</b></li></td>
+<td><li><b>Music Marketing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Regional Touring</b></li></td>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Brand Placement</b></li></td>
+</tr>
+</table>
+</div>
+<br>
+<!-- <hr color= #000000> -->
+<!-- <div style="margin-top:30px"></div> -->
+<footer>
+        <center>
+        	<b>| &#8482;BULLS-EYE RECORDS | Copyright &copy;2020-2024 | PETER HURD |</b>
+        </center>
+</footer>
+<!-- <div style="margin-top: 50px"></div> -->
+</html>
