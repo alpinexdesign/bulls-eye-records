@@ -760,3 +760,422 @@ At BULLS-EYE RECORDS, we seek to empower future industry leaders through an imme
 </footer> 
 <!-- <div style="margin-top: 50px"></div> -->
 </html>
+
+
+/* CSS3 - Styles - File - Sublime Text Editor */
+
+body
+{	/*background-color: skyblue*/
+	/*white-blue color below*/
+	background-color:#e6e6ff;
+}
+
+h1
+{
+	background-color: lightgray;
+	color:black;
+	text-align:center;
+	font-family: 'Poppins', sans-serif;
+	font-size: 65px;
+}
+
+.btn-group button{
+	width:150px;
+	height:50px;
+	border:2px solid #3333ff;
+	border-radius:10px;
+	/*white-blue color below
+	background-color: #e6e6ff*/
+	background-color: white;
+}
+ /*To keep my list of <buttons> displayed (inline) horizontally across the top navigation bar*/
+li {
+	display: inline;
+}
+h2
+{	
+	font-size: 18px;
+	font-family: 'Poppins', sans-serif;
+	background-color: lightgray;
+	text-align: center;
+	padding: 8px;
+	text-transform: uppercase;
+}
+
+p{
+	/*background-color: lightgray;*/
+	/*platinum gray*/
+	background-color: #e4e4e4;
+	color:black;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	font-size:20px;
+	border-right:5px navy solid;
+	border-left:5px navy solid;
+	border-top:5px navy solid;
+	border-bottom:5px navy solid;
+ /*Short hand CSS code means the same as above*/
+ /*navy blue code is #000080*/
+	border: 5px navy solid;
+	border-width:5px;
+	border-bottom-width:5px;
+	padding:20px;
+	margin:20px;
+}
+p.zero, .zero-one, .zero-two, .zero-three,
+ .zero-four, .zero-five, .zero-six, .zero-seven,
+ .zero-eight, .zero-nine, .zero-ten, .zero-eleven,
+ .zero-twelve, .zero-thirteen, .zero-fourteen, .zero-fifteen,
+ .zero-sixteen, .zero-seventeen, .zero-eighteen, .zero-nineteen,
+ .zero-twenty, .zero-twentyone, .zero-twentytwo, .zero-twentythree,
+ .zero-twentyfour{
+    /*background-color: lightgray;*/
+    /*platinum gray*/
+	background-color: #e4e4e4;
+	color: black;
+	font-weight: bold;
+	font-family: 'Poppins';
+	font-size: 20px;
+	border-right:5px navy solid;
+	border-left:5px navy solid;
+	border-top:5px navy solid;
+	border-bottom:5px navy solid;
+	border: 5px navy solid;
+	border-width:5px;
+	border-bottom-width:5px;
+	padding:20px;
+	margin:20px;
+}
+p.one{
+    /*background-color: lightgray;*/
+  	/*platinum gray*/
+	background-color: #e4e4e4;
+	color: black;
+	font-family: 'Poppins';
+	font-size: 1.1em;
+	border: 5px navy solid;
+	padding: 8px;
+	/*margin-left: 25%;*/
+	border: 5px navy solid;
+/*	align-items: center;
+	align-self: center;
+	align-content: center;*/
+	text-align: center;
+	justify-content: center;
+	height: 400px;
+	width: 600px;
+}
+p.two{
+	background-color: lightgray;
+	color: black;
+	font-family: 'Poppins';
+	font-size: 18px;
+	border: 5px navy solid;
+	padding: 8px;
+	margin-left: 25%;
+	border: 5px navy solid;
+/*	align-items: center;
+	align-self: center;
+	align-content: center;*/
+	text-align: center;
+	justify-content: center;
+	height: 140px;
+	width: 600px;
+}
+p.four{
+  	/*background-color: lightgray;*/
+  	/*platinum gray*/
+	background-color: #e4e4e4;
+	color: black;
+	font-family: 'Poppins';
+	font-size: 1em;
+	border: 5px navy solid;
+	padding: 15px;
+	/*margin-left: 25%;*/
+	border: 5px navy solid;
+	align-items: center;
+	align-self: center;
+	align-content: center;
+	text-align: center;
+	justify-content: center;
+	height: 139px;
+	width: 600px;
+}
+p.fourone{
+  	/*background-color: lightgray;*/
+  	/*platinum gray*/
+  	background-color: #e4e4e4;
+	color: black;
+	font-family: 'Poppins';
+	font-size: 1em;
+	border: 5px navy solid;
+	padding: 15px;
+	/*margin-left: 25%;*/
+	border: 5px navy solid;
+	align-items: center;
+	align-self: center;
+	align-content: center;
+	text-align: center;
+	justify-content: center;
+	height: 162px;
+	width: 600px;
+}
+	button {
+		background-color: lightblue;
+		font-family: 'Poppins', sans-serif;
+		margin: 8px;
+		padding: 7px;
+		border-radius: 10px;
+		text-align: center;
+		justify-content: center;
+}
+/* CSS3 code processed in ATOM text editor */
+h3 {
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+  	}
+
+
+.grid-container {
+    display: grid;
+   /* flex-wrap: wrap; */
+    font-weight: bold;
+    /*This little bit of CSS3 code below truly centers the content and 
+    items below to fit the viewport of a smaller cell phone width */
+    align-items: center;
+	align-content: center;
+	justify-content: center;
+  /*margin-left: 60px;*/
+    grid-gap: 25px;
+    padding: 15px;
+    grid-template-rows: 180px 180px;
+    grid-template-columns: repeat(auto-fit, minmax() 415px, 1fr);
+    /*(very light gray)*/
+  	} 
+.grid-item-1 {
+    width: 415px;
+    grid-row: 1;
+    grid-column: 1;
+  	}
+.grid-item-2 {
+    width: 415px;
+    grid-row: 1;
+    grid-column: 2;
+  	}
+.grid-item-3 {
+    width: 415px;
+    grid-row: 1;
+    grid-column: 3;
+  	}
+.grid-item-4 {
+    width: 415px;
+    grid-row: 2;
+    grid-column: 1;
+  	}
+.grid-item-5 {
+    width: 415px;
+    grid-row: 2;
+    grid-column: 2;
+  	}
+.grid-item-6 {
+    width: 415px;
+    grid-row: 2;
+    grid-column: 3;
+  	}
+
+  [class^='grid-item'] {
+    outline: 5px solid navy;
+    grid-template-columns: repeat(auto-fit, minmax() 415px, 1fr));
+    font-size: 12px;
+    font-family: 'Poppins', sans-serif;
+    padding: 8px;
+    /*platinum gray*/
+    background-color: #e4e4e4;
+    color: #333;
+    /*(very dark gray)*/
+ 	}
+
+/*h3 {
+ background-color: lightgray;
+ font-family: 'Poppins';
+ margin-left: 25%;
+ padding-left: 5px;
+ width: 615px;*/
+
+/*styling CONTACT button <section> from the nav bar of the website*/
+section {
+	/*platinum gray*/
+	background-color: #e4e4e4;
+	padding: 0;
+	margin: 0;
+	margin-left: 31%;
+	box-sizing: border-box;
+	border: 5px navy solid;;
+	font-family: 'Poppins', sans-serif;
+	/*background-color: lightgray;*/
+	height: 742px;
+	width: 600px;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+.container {
+	
+	width: 90%;
+	height: 87%;
+	max-width: 500px;
+	margin: 0 auto;
+	padding-right: 25.1px;
+	padding-left: 15px;
+	box-shadow: 0px 0px 20px #00000010;
+	background-color: white;
+	border-radius: 8px;
+	margin-bottom: 20px;
+}
+.form-group {
+	width: 100%;
+	margin-top: 20px;
+	font-size: 18px;	
+}
+.form-group input,
+.form-group textarea{
+	width: 100%;
+	padding: 5px;
+	font-size: 18px;
+	border: 1px solid black;
+	margin-top: 5px; 
+
+}
+textarea {
+	resize: vertical;
+}
+button {
+	text-align: center;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+}
+button[type="submit"]{
+	width: 98.8%;
+	margin-right: 30px;
+	border-radius: 10px;
+	outline: none;
+	padding: 18px;
+	font-size: 19px;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	border-radius: 8px;
+	/*color: blue;*/
+	text-align: center;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+	cursor: pointer;
+	margin-top: 10px;
+	transition: .3s ease background-color;
+}
+button[type="submit"]:hover{
+	background-color: rgb(214, 226, 236);
+}
+td, li {
+	list-style: none;
+	padding: 3px;
+}
+table {
+	/*#cccccc light-medium gray, chinese silver, hex gray 80*/ 
+    /*background-color: lightgray;*/
+	/*platinum gray*/
+	/*background-color: #e4e4e4;*/
+	font-family: 'Poppins', sans-serif;
+	background-color: lightgray;
+}
+
+
+footer{
+	display: flex;
+	flex-wrap: wrap;
+	text-align: center;
+	align-items: center;
+	align-content: center;
+	justify-content: center;
+	align-self:  center;
+	background-color: lightgray;
+	font-family: 'Poppins', sans-serif;
+	font-size: 18px;
+	height: 32px;
+	padding: 8px;
+}
+
+/* TRYIN TO GET THE IMAGES IN FEATURED ARTISTS TO HOOVER */
+
+/*.container-group {
+  position: relative;
+  width: 100%;
+}
+
+.image-group image{
+  display: inline;
+  width: 150px;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: "200";
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+
+.container:hover .overlay {
+ opacity: 1;
+}
+
+
+
+.text {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  right: 50%;
+  bottom: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+
+
+
+
+/* categories is (not) currently being used in the html file */
+/*.categories.container{
+	border:1px: #ccc solid;
+	padding:10px;
+	border-radius:15px;
+}
+.catergories h2{
+	text-align:center;
+
+}
+.catergories ul{
+	padding:0;
+/*  list-style:round; (or) square; */
+
+	
+
+
