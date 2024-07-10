@@ -114,4 +114,122 @@ LOS ANGELES and HOLLYWOOD. BULLS-EYE RECORDS recording equipement is state of th
 </html>
 
 
- 
+
+<!-- Page 2 -BULLS-EYE RECORD - ARTISTS -->
+
+<!DOCTYPE html>
+<html lang= "en">
+<!-- HTML code processed in Sublime3 text editor -->
+<head>
+<!-- HTML CONNECTION TO CSS -->
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<meta charset = “UTF-8” />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>BULLSEYERECORDS</title>
+
+<!-- JAVASCRIPT CONNECTION TO HTML+CSS -->
+<script type="text/javascript" src="artists.js"></script>
+</head>
+<!-- TOP BUTTON CONTROL PANEL -->
+<body>	
+<div class="btn-group">
+	<center>
+	<ul>
+	<li><a href="bullseyerecords1-index.html"><button type="button"><b>HOME</b></button></a></li>
+	<li><a href="artists.html"><button type="button"><b>ARTISTS</b></button></a></li>
+	<li><a href="brands.html"><button type="button"><b>BRANDS</b></button></a></li>
+	<li><a href="faq.html"><button type="button"><b>FAQ</b></button></a></li>
+	<li><a href="newreleases.html"><button type="button"><b>NEW RELEASES</b></button></a></li>
+<!--<li><a href="submissions.html"><button type="button"><b>SUBMISSIONS</b></button></a></li>-->
+	<li><a href="careers.html"><button type="button"><b>CAREERS</b></button></a></li>
+	<li><a href="contactus.html"><button type="button"><b>CONTACT</b></button></a></li>
+	</ul>
+	</center>
+</div>
+</body>
+
+<h1><img src="logo-white (3).jpg" width="400" height="145"></h1>
+<!-- PARAGRAPH 1 -->
+<P class="zero">ARIANA GRANDE</p>
+<p class="zero-one">JUSTIN TIMBERLAKE</P>
+<p class="zero-two">LADY GAGA</P>
+<p class="zero-three">MILES DAVIS</P>
+<p class="zero-four">THE BEATLES</P>
+<p class="zero-five">DIANA ROSS</P>
+<p class="zero-six">STEVIE WONDER</P>
+<p class="zero-seven">ELVIS PRESLEY</p>
+<p class="zero-eight">MADONNA</P>
+<p class="zero-nine">FRANK SINATRA</P>
+<p class="zero-ten">GREYBOY ALLSTARS</P>
+<p class="zero-eleven">JAMIROQUAI</P>
+<p class="zero-twelve">DUA LIPPA</P>
+<p class="zero-thirteen">POST MALONE</P>
+<p class="zero-fourteen">SYSTEM OF A DOWN</P>
+<p class="zero-fifteen">JANES ADDICTION</P>
+<p class="zero-sixteen">MARS VOLTA</P>
+<p class="zero-seventeen">SMASHING PUMPKINS</P>
+<p class="zero-eighteen">NINE INCH NAILS</P>
+<p class="zero-nineteen">COLDPLAY</P>
+<p class="zero-twenty">STEELY DAN</P>
+<p class="zero-twentyone">DEMI LOVATO</P>
+<p class="zero-twentytwo">GRANDMASTER FLASH</P>
+<p class="zero-twentythree">BISHU</P>
+<p class="zero-twentyfour">STEVE AOKI</p>
+	<hr color= #000000 />
+<center>
+	<h2><font face="Poppins" size="6">SERVICES FOR ARTISTS</font></h2>
+</center>
+<!-- LISTS/COLUMNS/ROWS/TABLES -->
+<div align="center"><table border="4" cellpadding="2" cellspacing="2" width=80%>
+<tr>
+<th bgcolor="#cccccc"><b>RECORD PRODUCER</b></th>
+<th bgcolor="#cccccc"><b>A&R REPRESENTATIVE</b></th>
+<th bgcolor="#cccccc"><b>AUDIO ENGINEER</b></th>
+<th bgcolor="#cccccc"><b>MUSIC PUBLICIST</b></th>
+</tr>
+<tr>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Artist Management</b></li></td>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Social Media</b></li></td>
+</tr>
+<tr>
+<td><li><b>Songwriting</b></li></td>
+<td><li><b>Recording Sessions</b></li></td>
+<td><li><b>Audio|Digital Recording</b></li></td>
+<td><li><b>Press Releases</b></li></td>
+</tr>
+<tr>
+<td><li><b>Arranging</b></li></td>
+<td><li><b>Album Repertoire</b></li></td>
+<td><li><b>Multi|Track Recording</b></li></td>
+<td><li><b>Music Publishing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Orchestration</b></li></td>
+<td><li><b>Album Releases</b></li></td>
+<td><li><b>Mastering</b></li></td>
+<td><li><b>Music Marketing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Regional Touring</b></li></td>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Brand Placement</b></li></td>
+</tr>
+</table>
+</div>
+<br>
+<!-- <hr color= #000000> -->
+<!-- <div style="margin-top:30px"></div> -->
+<footer>
+        <center>
+        	<b>| &#8482;BULLS-EYE RECORDS | Copyright &copy;2020-2024 | PETER HURD |</b>
+        </center>        
+</footer> 
+<!-- <div style="margin-top: 50px"></div> -->
+</html>
+
