@@ -334,3 +334,95 @@ LOS ANGELES and HOLLYWOOD. BULLS-EYE RECORDS recording equipement is state of th
 <!-- <div style="margin-top: 50px"></div> -->
 </html>
 
+<!-- Page 4 - BULLS-EYE RECORDS - FAQS -->
+
+<!DOCTYPE html>
+<html lang= "en">
+<!-- HTML code processed in Sublime3 text editor -->
+<head>
+<!-- HTML CONNECTION TO CSS -->
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<meta charset = “UTF-8” />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>BULLSEYERECORDS</title>
+
+<!-- JAVASCRIPT CONNECTION TO HTML+CSS -->
+<script type="text/javascript" src="artists.js"></script>
+</head>
+<!-- TOP BUTTON CONTROL PANEL -->
+<body>	
+<div class="btn-group">
+	<center>
+	<ul>
+	<li><a href="bullseyerecords1-index.html"><button type="button"><b>HOME</b></button></a></li>
+	<li><a href="artists.html"><button type="button"><b>ARTISTS</b></button></a></li>
+	<li><a href="brands.html"><button type="button"><b>BRANDS</b></button></a></li>
+	<li><a href="faq.html"><button type="button"><b>FAQ</b></button></a></li>
+	<li><a href="newreleases.html"><button type="button"><b>NEW RELEASES</b></button></a></li>
+<!--<li><a href="submissions.html"><button type="button"><b>SUBMISSIONS</b></button></a></li>-->
+	<li><a href="careers.html"><button type="button"><b>CAREERS</b></button></a></li>
+	<li><a href="contactus.html"><button type="button"><b>CONTACT</b></button></a></li>
+	</ul>
+	</center>
+</div>
+</body>
+<h1><img src="logo-white (3).jpg" width="400" height="145"></h1>
+<center>
+<p class="one">We are a medium-sized to large boutique record label, so plainly put, we serivce the artist.  Bulls-Eye Records has consistently placed the artist in the driver's seat assisting in the navigation through both calm and stormy weather.  A record label dedicated to the archiving of sound and no two ways about it.  Our indie label department has more freedom to pick and choose which artists they sign. If they decide to sign with you, it's because they like your music and your taste. They are less likely to insist on changes to your sound or image than super major companies. That means you will have more creative control with BULLS-EYE RECORDS. The facts are clearly stated in the fine print of your record label contract.  Like, there is a bigger likelihood you will own the rights to your own music. That means you can do what you like with the song once it's recorded, whether you sell it for a commercial or for use in a movie or television show.</p></center>
+	<hr color= #000000 />
+<center>
+	<h2><font face="Poppins" size="6">SERVICES FOR ARTISTS</font></h2>
+</center>
+<!-- LISTS/COLUMNS/ROWS/TABLES -->
+<div align="center"><table border="4" cellpadding="2" cellspacing="2" width=80%>
+<tr>
+<th bgcolor="#cccccc"><b>RECORD PRODUCER</b></th>
+<th bgcolor="#cccccc"><b>A&R REPRESENTATIVE</b></th>
+<th bgcolor="#cccccc"><b>AUDIO ENGINEER</b></th>
+<th bgcolor="#cccccc"><b>MUSIC PUBLICIST</b></th>
+</tr>
+<tr>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Artist Management</b></li></td>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Social Media</b></li></td>
+</tr>
+<tr>
+<td><li><b>Songwriting</b></li></td>
+<td><li><b>Recording Sessions</b></li></td>
+<td><li><b>Audio|Digital Recording</b></li></td>
+<td><li><b>Press Releases</b></li></td>
+</tr>
+<tr>
+<td><li><b>Arranging</b></li></td>
+<td><li><b>Album Repertoire</b></li></td>
+<td><li><b>Multi|Track Recording</b></li></td>
+<td><li><b>Music Publishing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Orchestration</b></li></td>
+<td><li><b>Album Releases</b></li></td>
+<td><li><b>Mastering</b></li></td>
+<td><li><b>Music Marketing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Regional Touring</b></li></td>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Brand Placement</b></li></td>
+</tr>
+</table>
+</div>
+<br>
+<hr color= #000000>
+<!-- <div style="margin-top:30px"></div> -->
+<footer>
+        <center>
+        	<b>| &#8482;BULLS-EYE RECORDS | Copyright &copy;2020-2024 | PETER HURD |</b>
+        </center>        
+</footer> 
+<!-- <div style="margin-top: 50px"></div> -->
+</html>
