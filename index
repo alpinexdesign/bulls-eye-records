@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang= "en">
+<!-- HTML code processed in Sublime3 text editor -->
+<head>
+<!-- HTML CONNECTION TO CSS -->
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<meta charset = “UTF-8” />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>BULLSEYERECORDS</title>
+
+<!-- JAVASCRIPT CONNECTION TO HTML+CSS -->
+<script type="text/javascript" src="artists.js"></script>
+</head>
+<!-- TOP BUTTON CONTROL PANEL -->
+<body>	
+<div class="btn-group">
+	<center>
+	<ul>
+	<li><a href="bullseyerecords1-index.html"><button type="button"><b>HOME</b></button></a></li>
+	<li><a href="artists.html"><button type="button"><b>ARTISTS</b></button></a></li>
+	<li><a href="brands.html"><button type="button"><b>BRANDS</b></button></a></li>
+	<li><a href="faq.html"><button type="button"><b>FAQ</b></button></a></li>
+	<li><a href="newreleases.html"><button type="button"><b>NEW RELEASES</b></button></a></li>
+<!--<li><a href="submissions.html"><button type="button"><b>SUBMISSIONS</b></button></a></li>-->
+	<li><a href="careers.html"><button type="button"><b>CAREERS</b></button></a></li>
+	<li><a href="contactus.html"><button type="button"><b>CONTACT</b></button></a></li>
+	<ul>
+	</center>
+</div>
+</body>
+
+<h1><img src="logo-white (3).jpg" width="400" height="145"></h1>
+<!-- PARAGRAPH 1 -->
+<p><b>
+BULLS-EYE RECORDS, is a specialist in branding and trademarking of music recordings and music videos. BULLS-EYE RECORDS is also a publishing company that manages these such brands and trademarks. Coordinating the production, manufacture, distribution, marketing, sale, promotion, and enforcement of copyright for sound recordings and music videos, while also conducting talent scouting and development of new artists. Your A&R representative exclusively maintains recording contracts that are inline with your core musical vision. Our roster of talented artists at BULLS-EYE RECORDS is second to none.  We have almost all genres of music covered from jazz and blues to electro pop. Our diverse roster also includes artists who record in the styles of alternative rock, rnb, hip hop, progressive rock and soul. Our record label is also notorious in providing the best one two punch in the business, an all-star team of Music Publicist and A&R Representative. Who seamlessly assist our performers in gaining positive star media coverage, and arrange for their brands to be available via on-line stores and in many other media outlets. BULLS-EYE RECORDS Music Publicity and A&R Departments work tirelessly to promote their signed artist's records.  Using the best in modern technology to advertise in magagzines, radio, television, podcasts and the ever expanding social network platforms of the internet.  Our radio-format promotion teams are experts in placing multiple songs in regular rotation in your target radio markets.  We personally design an effective radio campaign to suit your music style and listening audience.  With a coast to coast domestic and world wide international presence in public, internet and commercial radio, BULLS-EYE RECORDS does not disappoint.  Furthermore our professional contacts in the entertainment industry gives you the leg-up in pursuing the many other oppurtunities surrounding your brand.
+</b></p>
+	<hr color= #000000 />
+
+	<center>
+		<h2><font face="Poppins" size="6">FEATURED ARTISTS</font></h2>
+	</center>
+<!-- IMAGES -->
+	<center>
+		<img src="20200808_115141 (1).jpg" width="200" height="200">
+		<img src="elvispresley.jpg" width="200" height="200">
+		<img src="maryilynmonroe.jpg" width="200" height="200">
+		<img src="franksinatra.jpg" width="200" height="200">
+		<img src="milesdavis.jpg" width="200" height="200">
+		<img src="judy-garland-recording-artists-and-groups-photo-u33.webp" width="200" height="200">
+		<img src="20200809_150532 (3).jpg" width="200" height="200">
+		</img>	
+	</center>
+
+	<hr color= #000000 />
+<!-- PARAGRAPH 2 -->
+<p><b>BULLS-EYE RECORDS also provides a stable of dynamic-duo music producers and audio engineers.  Our staff are all multi Grammy Award winning technicians.  Contributing to a long list of trophies, awards and accolades, the world over.  Our producer's tailored collaborations with the best songwritiers, session musicians and music arrangers in the industry.  Has in turn, resulted in the coveted top spot of recording pantheons here in
+LOS ANGELES and HOLLYWOOD. BULLS-EYE RECORDS recording equipement is state of the art and our research and development recording team constantly stay ahead of the curve. BULLS-EYE RECORDS is here to assist in guiding you to super stardom.  We are here to make you a better songwriter, live performer and artist of the classic recording process.
+<hr color= #000000 />
+<center>
+	<h2><font face="Poppins" size="6">SERVICES FOR ARTISTS</font></h2>
+</center>
+<!-- LISTS/COLUMNS/ROWS/TABLES -->
+<div align="center"><table border="4" cellpadding="2" cellspacing="2" width=80%>
+<tr>
+<th bgcolor="#cccccc"><b>RECORD PRODUCER</b></th>
+<th bgcolor="#cccccc"><b>A&R REPRESENTATIVE</b></th>
+<th bgcolor="#cccccc"><b>AUDIO ENGINEER</b></th>
+<th bgcolor="#cccccc"><b>MUSIC PUBLICIST</b></th>
+</tr>
+<tr>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Artist Management</b></li></td>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Social Media</b></li></td>
+</tr>
+<tr>
+<td><li><b>Songwriting</b></li></td>
+<td><li><b>Recording Sessions</b></li></td>
+<td><li><b>Audio|Digital Recording</b></li></td>
+<td><li><b>Press Releases</b></li></td>
+</tr>
+<tr>
+<td><li><b>Arranging</b></li></td>
+<td><li><b>Album Repertoire</b></li></td>
+<td><li><b>Multi|Track Recording</b></li></td>
+<td><li><b>Music Publishing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Orchestration</b></li></td>
+<td><li><b>Album Releases</b></li></td>
+<td><li><b>Mastering</b></li></td>
+<td><li><b>Music Marketing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Regional Touring</b></li></td>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Brand Placement</b></li></td>
+</tr>
+</table>
+</div>
+<br>
+<!-- <hr color= #000000> -->
+<!-- <div style="margin-top:30px"></div> -->
+<footer>
+        <center>
+        	<b>| &#8482;BULLS-EYE RECORDS | Copyright &copy;2020-2024 | PETER HURD |</b>
+        </center>        
+</footer> 
+<!-- <div style="margin-top: 50px"></div> -->
+</html>
+
+
+ 
