@@ -115,7 +115,7 @@ LOS ANGELES and HOLLYWOOD. BULLS-EYE RECORDS recording equipement is state of th
 
 
 
-<!-- Page 2 -BULLS-EYE RECORD - ARTISTS -->
+<!-- Page 2 - BULLS-EYE RECORDS - ARTISTS -->
 
 <!DOCTYPE html>
 <html lang= "en">
@@ -224,6 +224,107 @@ LOS ANGELES and HOLLYWOOD. BULLS-EYE RECORDS recording equipement is state of th
 </div>
 <br>
 <!-- <hr color= #000000> -->
+<!-- <div style="margin-top:30px"></div> -->
+<footer>
+        <center>
+        	<b>| &#8482;BULLS-EYE RECORDS | Copyright &copy;2020-2024 | PETER HURD |</b>
+        </center>        
+</footer> 
+<!-- <div style="margin-top: 50px"></div> -->
+</html>
+
+<!-- Page 3 - BULL-EYE RECORDS - BRANDS -->
+
+<!DOCTYPE html>
+<html lang= "en">
+<!-- HTML code processed in Sublime3 text editor -->
+<head>
+<!-- HTML CONNECTION TO CSS -->
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap" rel="stylesheet">
+
+<meta charset = “UTF-8” />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>BULLSEYERECORDS</title>
+
+<!-- JAVASCRIPT CONNECTION TO HTML+CSS -->
+<script type="text/javascript" src="artists.js"></script>
+</head>
+<!-- TOP BUTTON CONTROL PANEL -->
+<body>	
+<div class="btn-group">
+	<center>
+	<ul>
+	<li><a href="bullseyerecords1-index.html"><button type="button"><b>HOME</b></button></a></li>
+	<li><a href="artists.html"><button type="button"><b>ARTISTS</b></button></a></li>
+	<li><a href="brands.html"><button type="button"><b>BRANDS</b></button></a></li>
+	<li><a href="faq.html"><button type="button"><b>FAQ</b></button></a></li>
+	<li><a href="newreleases.html"><button type="button"><b>NEW RELEASES</b></button></a></li>
+<!--<li><a href="submissions.html"><button type="button"><b>SUBMISSIONS</b></button></a></li>-->
+	<li><a href="careers.html"><button type="button"><b>CAREERS</b></button></a></li>
+	<li><a href="contactus.html"><button type="button"><b>CONTACT</b></button></a></li>
+	</ul>
+	</center>
+</div>
+</body>
+<h1><img src="logo-white (3).jpg" width="400" height="145"></h1>
+	<h2>Understanding Brands</h2>
+<p>A brand is seen as one of the music company's most valuable assets. It represents the face of the music company, the recognizable logo, slogan, or mark that the public associates with the company. In fact, the company is often referred to by its brand, and they become one and the same. A company's brand carries with it a monetary value in the stock market (if the company is public), which affects stockholder value as it rises and falls. For these reasons, it's important to uphold the integrity of the brand.  Developing a career in today’s music industry requires much more than producing great music. If you crave a music career and a life that swims in the musical world, you must work hard. You’ll also need to figure out how to uniquely showcase your brand in this competitive industry. A question you’ll inevitably ask yourself is: do I want a career in the music industry? If your answer is yes, then you must consider music branding. Branding is essential for advancing a career in the creative world. The hard truth is, people will make judgments and decisions before actually hearing your music. That’s why it’s crucial to have a vision of where you want your music career to go and how you want to present your brand to the world. It’s also essential to discover what’s unique about you, your artistry, and your story. Then build your brand from there.</p>
+<br>
+	<h2>Creating a Brand</h2>
+<p>When a music company decides to settle on a brand to be its public image, it must first determine its brand identity, or how it wants to be viewed. For example, a music company logo often incorporates the message, slogan or product that the music artist offers. The goal is to make the brand memorable and appealing to the consumer. The music company usually consults a design firm or design team to come up with ideas for the visual aspects of a brand, such as the logo or symbol. A successful brand accurately portrays the message or feeling the music company is trying to get across and results in brand awareness, or the recognition of the brand's existence and what it offers. On the other hand, an ineffective brand often results from miscommunication.
+<br>
+<p>Once a brand has created positive sentiment among its target audience, the firm is said to have built brand equity. Some examples of firms with brand equity possessing very recognizable brands of products are: Microsoft, Coca-Cola, Ferrari, Apple, and Facebook. If done right, a brand results in an increase in sales for not just the specific product being sold, but also for other products sold by the same company. A good brand engenders trust in the consumer, and, after having a good experience with one product, the consumer is more likely to try another product related to the same brand. This phenomenon is often referred to as brand loyalty.</p>
+<br>
+	<h2>Brand Conclusion</h2>
+<p>It would be nice to produce music all day and immediately make millions of dollars. Unfortunately, this is unrealistic for the vast majority of us. It’s no secret that choosing to be a full-time musician is a difficult task. And to keep yourself motivated through hardships, you’ll need a strong force to keep pushing you forward. Having a robust and consistent brand is necessary for all music producers looking to create a successful career. Spend time thinking about how to brand yourself, what you care about, what you want to achieve, and how to incorporate it all into your musical venture. Adequately self-reflect to better understand what you’re looking to accomplish.</p> 
+	<hr color= #000000 />
+<center>
+	<h2><font face="Poppins" size="6">SERVICES FOR ARTISTS</font></h2>
+</center>
+<!-- LISTS/COLUMNS/ROWS/TABLES -->
+<div align="center"><table border="4" cellpadding="2" cellspacing="2" width=80%>
+<tr>
+<th bgcolor="#cccccc"><b>RECORD PRODUCER</b></th>
+<th bgcolor="#cccccc"><b>A&R REPRESENTATIVE</b></th>
+<th bgcolor="#cccccc"><b>AUDIO ENGINEER</b></th>
+<th bgcolor="#cccccc"><b>MUSIC PUBLICIST</b></th>
+</tr>
+<tr>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Artist Management</b></li></td>
+<td><li><b>Pre-Production</b></li></td>
+<td><li><b>Social Media</b></li></td>
+</tr>
+<tr>
+<td><li><b>Songwriting</b></li></td>
+<td><li><b>Recording Sessions</b></li></td>
+<td><li><b>Audio|Digital Recording</b></li></td>
+<td><li><b>Press Releases</b></li></td>
+</tr>
+<tr>
+<td><li><b>Arranging</b></li></td>
+<td><li><b>Album Repertoire</b></li></td>
+<td><li><b>Multi|Track Recording</b></li></td>
+<td><li><b>Music Publishing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Orchestration</b></li></td>
+<td><li><b>Album Releases</b></li></td>
+<td><li><b>Mastering</b></li></td>
+<td><li><b>Music Marketing</b></li></td>
+</tr>
+<tr>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Regional Touring</b></li></td>
+<td><li><b>Post-Production</b></li></td>
+<td><li><b>Brand Placement</b></li></td>
+</tr>
+</table>
+</div>
+<br>
+<!-- <hr color= #000000>  -->
 <!-- <div style="margin-top:30px"></div> -->
 <footer>
         <center>
